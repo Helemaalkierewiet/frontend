@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+
+nav {
+    background-color: rgb(226,231,240);
+    padding: 10px;
+    border-width: 0.5px;
+    border: black solid;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 600px;
+}
+
+.logoLinks {
+    border: rgb(45,54,72);
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:rgb(45,54,72);
+    text-decoration: none;
+    color: white;
+    
+}
+
+a {
+    padding-left: 10px;
+    color: rgb(113,125,150);
+    text-decoration: none;
+}
+
+body {
+    border-color: black solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border: black solid;
+}
+
+.mainProduct {
+    display: flex;
+    padding: 30px;
+    flex-direction: row;
+    justify-content: center;
+    border: black solid;
+    border-width: 1px;
+   
+}
+
+.mainName {
+    padding: 20px;
+}
+
+.mainImg {
+    border: black solid;
+    border-width: 1px;
+}
+
+.mainHead {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.mainDisc {
+    padding-left: 20px;
+    padding-top: 100px;
+    padding-right: 1px;
+    border: black solid;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.prijs {
+    font-size: xx-large;
+}
+
+.disc {
+    border: black solid;
+    width: 300px;
+}
+
+.bestellen {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(45,54,72);
+   
+    border-radius: 10px;
+    color: white;
+}
+
+.Productdetails {
+    display: flex;
+}
+
+.punten {
+    background-color: rgb(226,231,240);
+}
